@@ -1,0 +1,23 @@
+Python specific
+
+*.pyc *.pyo *.pyd pycache/ *.egg-info/ dist/ build/ *.egg .env *.env venv/ env/ *.venv/ .pytest_cache/ .coverage coverage.xml *.cover *.py,cover .hypothesis/ .tox/ .nox/ *.mo *.pot *.log .log.*.sqlite3 *.db
+
+Common IDEs and editors
+
+.idea/ .vscode/ *.sublime-workspace *.sublime-project
+
+OS generated files
+
+.DS_Store Thumbs.db
+
+Jupyter Notebook
+
+.ipynb_checkpoints/
+
+Virtual environment
+
+pip-wheel-metadata/ share/python-wheels/ *.whl
+
+Testing
+
+htmlcov/ *.cache nosetests.xml coverage.xml *.cover *.py,cover
